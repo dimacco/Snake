@@ -4,3 +4,9 @@ C:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake\Snake\bin\Debug\Snake.pd
 C:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
 C:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake\Snake\obj\Debug\Snake.pdb
+c:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake.git\Snake\bin\Debug\Snake.exe.config
+c:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake.git\Snake\obj\Debug\Snake.exe
+c:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake.git\Snake\obj\Debug\Snake.pdb
+c:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake.git\Snake\bin\Debug\Snake.exe
+c:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake.git\Snake\bin\Debug\Snake.pdb
+c:\Users\VR\Dropbox\Training\GeekBrains\OOP\Snake\Snake.git\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
